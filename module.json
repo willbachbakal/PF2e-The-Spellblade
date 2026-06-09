@@ -1,10 +1,10 @@
 {
-  "id": "",
-  "title": "",
+  "id": "the-spellblade",
+  "title": "The Spellblade",
   "version": "#{VERSION}#",
   "library": "false",
   "compatibility": {
-    "minimum": "13",
+    "minimum": "14",
     "verified": "14",
     "maximum": "14"
   },
@@ -12,7 +12,11 @@
     "": {
       "pf2e-homebrew": {
         "featTraits": {
-          "": ""
+          "hybrid": {
+            "label": "Hybrid",
+            "description": "A hybrid activity incorporates a Strike, but can be adapted just as easily to your Battlecasts instead. You can Battlecast instead of Strike when using a hybrid action, using Battlecast’s action cost if it’s higher. If you Battlecast as part of a hybrid activity, increase the value of the overloaded condition you gain from Battlecast by the hybrid activity’s action cost-1. You can’t use Battlecast as part of a hybrid activity if you’re overloaded at the start of the activity, even if you would lose the condition before making a Strike, and if you Battlecast as part of the activity, any subsequent attacks you make as part of the activity don’t reduce your overloaded condition."
+          },
+          "spellblade": "Spellblade"
         },
         "spellTraits": {
           "": ""
@@ -20,7 +24,7 @@
       }
     }
   },
-  "description": "",
+  "description": "A homebrew class for Pathfinder Second Edition based on the Magus, which expands significantly upon its Spellstrike action.",
   "authors": [
     {
       "name": "Teridax68",
@@ -29,9 +33,9 @@
   ],
   "packs": [
     {
-      "name": "",
-      "label": "",
-      "path": "packs/",
+      "name": "the-spellblade",
+      "label": "The Spellblade",
+      "path": "packs/the-spellblade",
       "type": "Item",
       "system": "pf2e",
       "flags": {}
@@ -44,5 +48,5 @@
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
   "license": "LICENSE",
-  "readme": ""
+  "readme": "https://homebrewery.naturalcrit.com/share/208s8T6c7VZz"
 }
