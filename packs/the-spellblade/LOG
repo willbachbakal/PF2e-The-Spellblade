@@ -1,0 +1,11 @@
+2026/06/14-09:12:05.448 3a10 Recovering log #14
+2026/06/14-09:12:05.449 3a10 Level-0 table #16: started
+2026/06/14-09:12:05.457 3a10 Level-0 table #16: 47209 bytes OK
+2026/06/14-09:12:05.462 3a10 Delete type=0 #14
+2026/06/14-09:12:05.463 3a10 Delete type=3 #12
+2026/06/14-11:25:58.413 702c Compacting 2@0 + 0@1 files
+2026/06/14-11:25:58.419 702c Generated table #18@0: 9 keys, 11256 bytes
+2026/06/14-11:25:58.419 702c Compacted 2@0 + 0@1 files => 11256 bytes
+2026/06/14-11:25:58.420 702c compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/06/14-11:25:58.420 702c Delete type=2 #13
+2026/06/14-11:25:58.421 702c Delete type=2 #16
